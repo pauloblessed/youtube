@@ -1,7 +1,7 @@
 {
-  "name": "Sistema Nutricional",
-  "short_name": "NutriSis",
-  "description": "Sistema gratuito para nutricionistas",
+  "name": "Youtube Web",
+  "short_name": "YoutubeWeb",
+  "description": "Youtube Web",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
